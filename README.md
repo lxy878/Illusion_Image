@@ -5,4 +5,4 @@ The program works to create a simple image by implementing OpenGL framework.   T
 
 ## Image Display:
 
-<img src='' title='https://github.com/lxy878/Illusion_Image/blob/master/image_demo.png' width='' alt='Video Walkthrough' />
+<img src=''https://github.com/lxy878/Illusion_Image/blob/master/image_demo.png' width='' alt='Video Walkthrough' />
