@@ -5,6 +5,4 @@ The program works to create a simple image by implementing OpenGL framework.   T
 
 ## Image Display:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='' title='https://github.com/lxy878/Illusion_Image/blob/master/image_demo.png' width='' alt='Video Walkthrough' />
